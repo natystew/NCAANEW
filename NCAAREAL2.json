@@ -1,0 +1,13604 @@
+{
+
+"promotionRoutes" : {
+
+"NWST" : "B10",
+
+"PLNS" : "COWBY",
+
+"EAST" : "PACIF",
+
+"MATL" : "NORTH",
+
+"GULF" : "SEC",
+
+"MRVR" : "MOUNT"
+
+},
+
+"baseYear" : 2022,
+
+"relegationRoutes" : {
+
+"NORTH" : "MATL",
+
+"PACIF" : "EAST",
+
+"B10" : "NWST",
+
+"COWBY" : "PLNS",
+
+"SEC" : "GULF",
+
+"MOUNT" : "MRVR"
+
+},
+
+"conferences" : [
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "BAMA",
+
+"prestige" : "95",
+
+"hexColor" : "#9E1B32",
+
+"rivalryNames" : { "Iron Bowl"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "65",
+
+"hometown" : "Keasbey",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "95",
+
+"coachingAbility" : "73",
+
+"name" : "Markell Geidl",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"AUB"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Michigan",
+
+"ratPot" : "99",
+
+"hometown" : "Sterling Heights",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "95",
+
+"coachingAbility" : "66",
+
+"name" : "Skylar Kindregan",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "69",
+
+"homeState" : "Arkansas",
+
+"ratPot" : "79",
+
+"hometown" : "Fordyce",
+
+"ratTalent" : "57",
+
+"baselinePrestige" : "95",
+
+"name" : "Julian Tones",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Alabama",
+
+"state" : "Alabama"
+
+},
+
+{
+
+"abbreviation" : "UGA",
+
+"prestige" : "90",
+
+"hexColor" : "#BA0C2F",
+
+"rivalryNames" : { "Okefenokee Oar"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Vermont",
+
+"ratPot" : "51",
+
+"hometown" : "Waterbury Village",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "71",
+
+"name" : "Trace Baldassara",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"FLO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Vermont",
+
+"ratPot" : "54",
+
+"hometown" : "Cabot",
+
+"ratTalent" : "46",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "76",
+
+"name" : "Dalton Loverich",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "56",
+
+"homeState" : "Pennsylvania",
+
+"ratPot" : "89",
+
+"hometown" : "East Norriton",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "90",
+
+"name" : "Milton Rives",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Georgia",
+
+"state" : "Georgia"
+
+},
+
+{
+
+"abbreviation" : "FLO",
+
+"prestige" : "85",
+
+"hexColor" : "#0021A5",
+
+"rivalryNames" : { "Okefenokee Oar"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wisconsin",
+
+"ratPot" : "59",
+
+"hometown" : "Cannon Park",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "72",
+
+"name" : "Chad Bielak",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"UGA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "American Samoa",
+
+"ratPot" : "51",
+
+"hometown" : "Puapua",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "81",
+
+"name" : "Colby Ricketts",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "82",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "71",
+
+"homeState" : "Kansas",
+
+"ratPot" : "77",
+
+"hometown" : "Kinsley",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "85",
+
+"name" : "PJ Schwing",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Gators",
+
+"state" : "Florida"
+
+},
+
+{
+
+"abbreviation" : "TENN",
+
+"prestige" : "80",
+
+"hexColor" : "#FF8200",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arizona",
+
+"ratPot" : "81",
+
+"hometown" : "Amado",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "72",
+
+"name" : "Derek Agostini",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Kentucky",
+
+"ratPot" : "81",
+
+"hometown" : "Olive Hill",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "69",
+
+"name" : "Bradley Doby",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "75",
+
+"homeState" : "Ohio",
+
+"ratPot" : "88",
+
+"hometown" : "Proctorville",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "80",
+
+"name" : "Nelson Dimpfl",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Volunteers",
+
+"state" : "Tennessee"
+
+},
+
+{
+
+"abbreviation" : "AUB",
+
+"prestige" : "75",
+
+"hexColor" : "#0C2340",
+
+"rivalryNames" : { "Iron Bowl"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "81",
+
+"hometown" : "Stonington",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "73",
+
+"name" : "Lance Houseworth",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"BAMA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Colorado",
+
+"ratPot" : "64",
+
+"hometown" : "Castle Rock",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "75",
+
+"name" : "Seth Ujano",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Minnesota",
+
+"ratPot" : "66",
+
+"hometown" : "Mora",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "75",
+
+"name" : "Mitchell Heichel",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Auburn",
+
+"state" : "Alabama"
+
+},
+
+{
+
+"abbreviation" : "LSU",
+
+"prestige" : "75",
+
+"hexColor" : "#461D7C",
+
+"rivalryNames" : { "Golden Boot"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "American Samoa",
+
+"ratPot" : "75",
+
+"hometown" : "Alaufau",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "72",
+
+"name" : "Stephon Hirayama",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"ARK"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Kentucky",
+
+"ratPot" : "63",
+
+"hometown" : "Hardinsburg",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "72",
+
+"name" : "Curtis Costa",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "71",
+
+"hometown" : "Abbeville",
+
+"ratTalent" : "69",
+
+"baselinePrestige" : "75",
+
+"name" : "Pete Eken",
+
+"contractYear" : "5"
+
+},
+
+"name" : "LSU",
+
+"state" : "Louisiana"
+
+},
+
+{
+
+"abbreviation" : "ARK",
+
+"prestige" : "70",
+
+"hexColor" : "#9D2235",
+
+"rivalryNames" : { "Golden Boot"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "74",
+
+"hometown" : "Logan",
+
+"ratTalent" : "69",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "68",
+
+"name" : "Johnathan Sundseth",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"LSU"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maryland",
+
+"ratPot" : "82",
+
+"hometown" : "Owings",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "67",
+
+"name" : "Dan Plantenberg",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Wyoming",
+
+"ratPot" : "50",
+
+"hometown" : "Pinedale",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "70",
+
+"name" : "Chad Skeeter",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Razorbacks",
+
+"state" : "Arkansas"
+
+},
+
+{
+
+"abbreviation" : "TAM",
+
+"prestige" : "65",
+
+"hexColor" : "#500000",
+
+"rivalryNames" : { "Battle of the Brazos"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "76",
+
+"hometown" : "Irwinton",
+
+"ratTalent" : "60",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "70",
+
+"name" : "Robert Stublaski",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"BAY"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Vermont",
+
+"ratPot" : "63",
+
+"hometown" : "Westford",
+
+"ratTalent" : "62",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "Stanley Kettenring",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "57",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "North Dakota",
+
+"ratPot" : "68",
+
+"hometown" : "Killdeer",
+
+"ratTalent" : "81",
+
+"baselinePrestige" : "65",
+
+"name" : "Jose Palmrose",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Texas A&M",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "VANDY",
+
+"prestige" : "65",
+
+"hexColor" : "#000000",
+
+"rivalryNames" : { "Gold Cowbell"
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "74",
+
+"hometown" : "Salem",
+
+"ratTalent" : "78",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "67",
+
+"name" : "Leighton Blankenburg",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"GT"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "50",
+
+"hometown" : "Snellville",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "73",
+
+"name" : "Keith Cavaleri",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "56",
+
+"homeState" : "Nevada",
+
+"ratPot" : "93",
+
+"hometown" : "Nellis AFB",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "65",
+
+"name" : "George Burciaga",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Vanderbilt",
+
+"state" : "Tennessee"
+
+},
+
+{
+
+"abbreviation" : "UK",
+
+"prestige" : "50",
+
+"hexColor" : "#0033A0",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington DC",
+
+"ratPot" : "86",
+
+"hometown" : "Dupont Circle",
+
+"ratTalent" : "62",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "66",
+
+"name" : "Jonathan Wiggains",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"LOUI"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arkansas",
+
+"ratPot" : "97",
+
+"hometown" : "Hector",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "62",
+
+"name" : "Cameron Kounlavong",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"ratOff" : "57",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "Delaware",
+
+"ratPot" : "68",
+
+"hometown" : "Edgemoor",
+
+"ratTalent" : "93",
+
+"baselinePrestige" : "50",
+
+"name" : "James Schueler",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Kentucky",
+
+"state" : "Kentucky"
+
+}
+
+],
+
+"confFullName" : "Southeastern Conference",
+
+"confPrestige" : "90",
+
+"confName" : "SEC"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "AAR",
+
+"prestige" : "90",
+
+"hexColor" : "#CEBE70",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Hawaii",
+
+"ratPot" : "65",
+
+"hometown" : "Pukalani",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "82",
+
+"name" : "Mario Messey",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"CLB"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "73",
+
+"hometown" : "East Ellijay",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "72",
+
+"name" : "Larry Kleinhans",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"ratOff" : "77",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Ohio",
+
+"ratPot" : "91",
+
+"hometown" : "Cadiz Township",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "90",
+
+"name" : "Ricky Beneduce",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Ann Arbor",
+
+"state" : "Michigan"
+
+},
+
+{
+
+"abbreviation" : "CLB",
+
+"prestige" : "90",
+
+"hexColor" : "#DDDDFF",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "53",
+
+"hometown" : "Tellico Plains",
+
+"ratTalent" : "50",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "84",
+
+"name" : "Jon Creson",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"AAR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington",
+
+"ratPot" : "61",
+
+"hometown" : "Five Corners",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "76",
+
+"name" : "Kenny Ofsak",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"ratOff" : "79",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "70",
+
+"homeState" : "Oregon",
+
+"ratPot" : "81",
+
+"hometown" : "Canby",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "90",
+
+"name" : "Chad Stuesse",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Columbus",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "LAN",
+
+"prestige" : "80",
+
+"hexColor" : "#FDC10D",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wisconsin",
+
+"ratPot" : "94",
+
+"hometown" : "Livingston",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "76",
+
+"name" : "Allen Schwarzenbach",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MIN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "94",
+
+"hometown" : "Sharon",
+
+"ratTalent" : "66",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "75",
+
+"name" : "Vern Knepp",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "72",
+
+"homeState" : "Delaware",
+
+"ratPot" : "60",
+
+"hometown" : "Glasgow",
+
+"ratTalent" : "81",
+
+"baselinePrestige" : "80",
+
+"name" : "Moses Stromquist",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Lansing",
+
+"state" : "Michigan"
+
+},
+
+{
+
+"abbreviation" : "CHI",
+
+"prestige" : "70",
+
+"hexColor" : "#F0B410",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arizona",
+
+"ratPot" : "56",
+
+"hometown" : "Globe",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "63",
+
+"name" : "DeAndre Raelson",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"DET"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "54",
+
+"hometown" : "Abbeville",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "73",
+
+"name" : "Jaylin Stanbaugh",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "73",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "72",
+
+"homeState" : "Massachusetts",
+
+"ratPot" : "83",
+
+"hometown" : "Dudley",
+
+"ratTalent" : "70",
+
+"baselinePrestige" : "70",
+
+"name" : "Garrison Josich",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Chicago",
+
+"state" : "Illinois"
+
+},
+
+{
+
+"abbreviation" : "MAD",
+
+"prestige" : "70",
+
+"hexColor" : "#FFF500",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "63",
+
+"hometown" : "Asher",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "61",
+
+"name" : "Craig Mathis",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"BLO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "97",
+
+"hometown" : "Nikiski",
+
+"ratTalent" : "73",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "65",
+
+"name" : "George Garing",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"ratOff" : "80",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "75",
+
+"homeState" : "Idaho",
+
+"ratPot" : "78",
+
+"hometown" : "Wilder",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "70",
+
+"name" : "Dusty Safko",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Madison",
+
+"state" : "Wisconsin"
+
+},
+
+{
+
+"abbreviation" : "MIN",
+
+"prestige" : "70",
+
+"hexColor" : "#FFC726",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "96",
+
+"hometown" : "Fontanelle",
+
+"ratTalent" : "79",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "62",
+
+"name" : "Leonard Sedanos",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"LAN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "66",
+
+"hometown" : "Hughes Springs",
+
+"ratTalent" : "51",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "70",
+
+"name" : "Jacques Clow",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"ratOff" : "73",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "West Virginia",
+
+"ratPot" : "65",
+
+"hometown" : "Grantsville",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "70",
+
+"name" : "Michael Timenez",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Minneapolis",
+
+"state" : "Minnesota"
+
+},
+
+{
+
+"abbreviation" : "DET",
+
+"prestige" : "65",
+
+"hexColor" : "#F06014",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Idaho",
+
+"ratPot" : "58",
+
+"hometown" : "Glenns Ferry",
+
+"ratTalent" : "47",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "Lucius Orofino",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CHI"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "68",
+
+"hometown" : "Oilton",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "71",
+
+"name" : "Casey Daughton",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"ratOff" : "69",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "70",
+
+"homeState" : "Ohio",
+
+"ratPot" : "96",
+
+"hometown" : "Milan",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "65",
+
+"name" : "Devon Blanquet",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Detroit",
+
+"state" : "Michigan"
+
+},
+
+{
+
+"abbreviation" : "BLO",
+
+"prestige" : "65",
+
+"hexColor" : "#006F53",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "69",
+
+"hometown" : "Port Charlotte",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "71",
+
+"name" : "Elijah Vokes",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MAD"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alabama",
+
+"ratPot" : "86",
+
+"hometown" : "Wetumpka",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "76",
+
+"name" : "Liam Stevenson",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"ratOff" : "69",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "West Virginia",
+
+"ratPot" : "88",
+
+"hometown" : "Poca",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "65",
+
+"name" : "Russell Hassard",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Bloomington",
+
+"state" : "Indiana"
+
+},
+
+{
+
+"abbreviation" : "CLE",
+
+"prestige" : "55",
+
+"hexColor" : "#00839A",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "54",
+
+"hometown" : "Washington",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "73",
+
+"name" : "Deonte Zita",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MIL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "South Dakota",
+
+"ratPot" : "52",
+
+"hometown" : "Onida",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "73",
+
+"name" : "Tim Rownd",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "61",
+
+"homeState" : "Florida",
+
+"ratPot" : "68",
+
+"hometown" : "Wynwood",
+
+"ratTalent" : "69",
+
+"baselinePrestige" : "55",
+
+"name" : "Jared Helfrey",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Univ of Cleveland",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "MIL",
+
+"prestige" : "45",
+
+"hexColor" : "#CCCCCD",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Illinois",
+
+"ratPot" : "71",
+
+"hometown" : "Hudson",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "62",
+
+"name" : "Keegan Helgesen",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"CLE"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Kansas",
+
+"ratPot" : "56",
+
+"hometown" : "McConnell AFB",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "67",
+
+"name" : "Henry Koehn",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"ratOff" : "75",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "Kansas",
+
+"ratPot" : "99",
+
+"hometown" : "Scott City",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "45",
+
+"name" : "Jared Aroche",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Milwaukee",
+
+"state" : "Wisconsin"
+
+}
+
+],
+
+"confFullName" : "Big 10",
+
+"confPrestige" : "90",
+
+"confName" : "B10"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "NYS",
+
+"prestige" : "90",
+
+"hexColor" : "#194896",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "53",
+
+"hometown" : "Bainbridge",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "76",
+
+"name" : "Brian Lossa",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"NYC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Idaho",
+
+"ratPot" : "91",
+
+"hometown" : "Craigmont",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "83",
+
+"name" : "Seth Wood",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"ratOff" : "74",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "Indiana",
+
+"ratPot" : "54",
+
+"hometown" : "Beech Grove",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "90",
+
+"name" : "Marcos Reist",
+
+"contractYear" : "0"
+
+},
+
+"name" : "New York St",
+
+"state" : "New York"
+
+},
+
+{
+
+"abbreviation" : "NWJ",
+
+"prestige" : "85",
+
+"hexColor" : "#E5B67D",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arkansas",
+
+"ratPot" : "64",
+
+"hometown" : "Washington",
+
+"ratTalent" : "87",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "68",
+
+"name" : "Brandon Dyer",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"PEN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Indiana",
+
+"ratPot" : "98",
+
+"hometown" : "Oxford",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "67",
+
+"name" : "Ethan Fisichella",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "71",
+
+"homeState" : "Washington",
+
+"ratPot" : "90",
+
+"hometown" : "Seahurst",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "85",
+
+"name" : "Ryan Ferrufino",
+
+"contractYear" : "0"
+
+},
+
+"name" : "New Jersey",
+
+"state" : "New Jersey"
+
+},
+
+{
+
+"abbreviation" : "NYC",
+
+"prestige" : "75",
+
+"hexColor" : "#FF6500",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Mississippi",
+
+"ratPot" : "85",
+
+"hometown" : "Biloxi",
+
+"ratTalent" : "50",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "77",
+
+"name" : "Reynaldo Schumaker",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"NYS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "74",
+
+"hometown" : "Pennsauken Township",
+
+"ratTalent" : "60",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "69",
+
+"name" : "Robby Susich",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Missouri",
+
+"ratPot" : "55",
+
+"hometown" : "Otterville",
+
+"ratTalent" : "60",
+
+"baselinePrestige" : "75",
+
+"name" : "Juan Puglisi",
+
+"contractYear" : "3"
+
+},
+
+"name" : "New York City",
+
+"state" : "New York"
+
+},
+
+{
+
+"abbreviation" : "PEN",
+
+"prestige" : "75",
+
+"hexColor" : "#BF2C37",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington DC",
+
+"ratPot" : "70",
+
+"hometown" : "Washington",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "76",
+
+"name" : "Robin Voigt",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"NWJ"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Minnesota",
+
+"ratPot" : "83",
+
+"hometown" : "Watertown",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "68",
+
+"name" : "Jonathon Noll",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "71",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "57",
+
+"hometown" : "Portales",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "75",
+
+"name" : "Jaquan Wurdeman",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Pennsylvania",
+
+"state" : "Pennsylvania"
+
+},
+
+{
+
+"abbreviation" : "WDC",
+
+"prestige" : "70",
+
+"hexColor" : "#006700",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "57",
+
+"hometown" : "Gillett Grove",
+
+"ratTalent" : "78",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "80",
+
+"name" : "Lyle Dicostanzo",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"BAL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "69",
+
+"hometown" : "Lemoore",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "81",
+
+"name" : "Manuel Kille",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"ratOff" : "72",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "Georgia",
+
+"ratPot" : "90",
+
+"hometown" : "Commerce",
+
+"ratTalent" : "67",
+
+"baselinePrestige" : "70",
+
+"name" : "Bubba Tention",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Washington DC",
+
+"state" : "District of Columbia"
+
+},
+
+{
+
+"abbreviation" : "BAL",
+
+"prestige" : "70",
+
+"hexColor" : "#CC5500",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "85",
+
+"hometown" : "Hammondsville",
+
+"ratTalent" : "57",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "75",
+
+"name" : "Claude Hallie",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"WDC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Massachusetts",
+
+"ratPot" : "73",
+
+"hometown" : "South Lancaster",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "67",
+
+"name" : "Davis Boudle",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "69",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "California",
+
+"ratPot" : "68",
+
+"hometown" : "The Castro",
+
+"ratTalent" : "86",
+
+"baselinePrestige" : "70",
+
+"name" : "Dustin Beamish",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Baltimore",
+
+"state" : "Maryland"
+
+},
+
+{
+
+"abbreviation" : "BOS",
+
+"prestige" : "65",
+
+"hexColor" : "#1F60A9",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Indiana",
+
+"ratPot" : "76",
+
+"hometown" : "Orleans",
+
+"ratTalent" : "72",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "69",
+
+"name" : "Austin Carpenter",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"VER"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Rhode Island",
+
+"ratPot" : "57",
+
+"hometown" : "Chepachet",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "66",
+
+"name" : "Donnie Yanagida",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"ratOff" : "64",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "81",
+
+"homeState" : "Texas",
+
+"ratPot" : "65",
+
+"hometown" : "Lubbock",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "65",
+
+"name" : "Nate Dole",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Boston St",
+
+"state" : "Massachusetts"
+
+},
+
+{
+
+"abbreviation" : "STU",
+
+"prestige" : "60",
+
+"hexColor" : "#D12947",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "52",
+
+"hometown" : "Baxter",
+
+"ratTalent" : "70",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "65",
+
+"name" : "Mason Damphousse",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MAI"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "50",
+
+"hometown" : "Financial District",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "69",
+
+"name" : "Trevon Mikhaiel",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"ratOff" : "55",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "North Carolina",
+
+"ratPot" : "98",
+
+"hometown" : "Canton",
+
+"ratTalent" : "73",
+
+"baselinePrestige" : "60",
+
+"name" : "JP Erck",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Steel City Univ",
+
+"state" : "Pennsylvania"
+
+},
+
+{
+
+"abbreviation" : "MAI",
+
+"prestige" : "50",
+
+"hexColor" : "#FF8931",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Nevada",
+
+"ratPot" : "98",
+
+"hometown" : "Incline Village",
+
+"ratTalent" : "74",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "57",
+
+"name" : "Jaylen Goglia",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"STU"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Nevada",
+
+"ratPot" : "66",
+
+"hometown" : "Spanish Springs",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "62",
+
+"name" : "James Ravens",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "51",
+
+"homeState" : "California",
+
+"ratPot" : "58",
+
+"hometown" : "Martinez",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "50",
+
+"name" : "Darian Davance",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Maine",
+
+"state" : "Maine"
+
+},
+
+{
+
+"abbreviation" : "VER",
+
+"prestige" : "45",
+
+"hexColor" : "#FF151A",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "93",
+
+"hometown" : "Ketchikan",
+
+"ratTalent" : "77",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "65",
+
+"name" : "Colby Dene",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"BOS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "75",
+
+"hometown" : "Mountain City",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "63",
+
+"name" : "Lee Casale",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "60",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "61",
+
+"homeState" : "Washington DC",
+
+"ratPot" : "74",
+
+"hometown" : "Washington",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "45",
+
+"name" : "Barrett Donze",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Vermont",
+
+"state" : "Vermont"
+
+}
+
+],
+
+"confFullName" : "North",
+
+"confPrestige" : "80",
+
+"confName" : "NORTH"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "AUS",
+
+"prestige" : "90",
+
+"hexColor" : "#FFB325",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Michigan",
+
+"ratPot" : "92",
+
+"hometown" : "Escanaba",
+
+"ratTalent" : "46",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "69",
+
+"name" : "Edmond Dorschner",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"NRM"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Pennsylvania",
+
+"ratPot" : "99",
+
+"hometown" : "Emporium",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "75",
+
+"name" : "Darian Ruhland",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "83",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "Missouri",
+
+"ratPot" : "73",
+
+"hometown" : "Myrtle Township",
+
+"ratTalent" : "72",
+
+"baselinePrestige" : "90",
+
+"name" : "Marcel Mycroft",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Austin",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "NRM",
+
+"prestige" : "90",
+
+"hexColor" : "#ED1B2E",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "67",
+
+"hometown" : "Columbus",
+
+"ratTalent" : "73",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "74",
+
+"name" : "Fidel Mulneix",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"AUS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Indiana",
+
+"ratPot" : "84",
+
+"hometown" : "Montezuma",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "73",
+
+"name" : "Lance Carrothers",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "Hawaii",
+
+"ratPot" : "84",
+
+"hometown" : "Waipio",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "90",
+
+"name" : "Lester Nadelbach",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Norman",
+
+"state" : "Oklahoma"
+
+},
+
+{
+
+"abbreviation" : "DAL",
+
+"prestige" : "80",
+
+"hexColor" : "#FDC82F",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Nebraska",
+
+"ratPot" : "96",
+
+"hometown" : "Crofton",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "81",
+
+"name" : "Daniel Kaszuba",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"HOU"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "75",
+
+"hometown" : "Georgetown",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "76",
+
+"name" : "Jack Cozart",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "65",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "75",
+
+"hometown" : "Southeast Washington",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "80",
+
+"name" : "Nick Lamarr",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Dallas",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "HOU",
+
+"prestige" : "80",
+
+"hexColor" : "#006F51",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington",
+
+"ratPot" : "59",
+
+"hometown" : "Bridgeport",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "67",
+
+"name" : "Jamaal Rosencranz",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"DAL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "93",
+
+"hometown" : "Downtown",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "70",
+
+"name" : "Chance Sise",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"ratOff" : "73",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "78",
+
+"hometown" : "Picher",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "80",
+
+"name" : "Trevor Snair",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Houston",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "STW",
+
+"prestige" : "70",
+
+"hexColor" : "#DD550C",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Illinois",
+
+"ratPot" : "64",
+
+"hometown" : "Sparta",
+
+"ratTalent" : "46",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "84",
+
+"name" : "Mack Speach",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"TUL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "86",
+
+"hometown" : "McGrath",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "70",
+
+"name" : "Travis Heiserman",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"ratOff" : "60",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "Michigan",
+
+"ratPot" : "97",
+
+"hometown" : "Eastpointe",
+
+"ratTalent" : "73",
+
+"baselinePrestige" : "70",
+
+"name" : "Nick Rambousek",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Stillwater",
+
+"state" : "Oklahoma"
+
+},
+
+{
+
+"abbreviation" : "AMO",
+
+"prestige" : "70",
+
+"hexColor" : "#FFC10E",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "84",
+
+"hometown" : "Plains",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "72",
+
+"name" : "Gerardo Edling",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"PAS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "77",
+
+"hometown" : "Big Sandy",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "70",
+
+"name" : "Glenn Mullendore",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"ratOff" : "69",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Texas",
+
+"ratPot" : "99",
+
+"hometown" : "Mabank",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "70",
+
+"name" : "Landon Gelzinis",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Alamo St",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "SMC",
+
+"prestige" : "60",
+
+"hexColor" : "#FDB827",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "55",
+
+"hometown" : "Bend",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "84",
+
+"name" : "Samuel Heimburger",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"STO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "51",
+
+"hometown" : "Perrysville",
+
+"ratTalent" : "78",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "71",
+
+"name" : "Ali Madarang",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"ratOff" : "54",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "65",
+
+"homeState" : "California",
+
+"ratPot" : "56",
+
+"hometown" : "Mount Laguna",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "60",
+
+"name" : "Joshua Voegeli",
+
+"contractYear" : "4"
+
+},
+
+"name" : "San Marcos St",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "PAS",
+
+"prestige" : "60",
+
+"hexColor" : "#008568",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "North Carolina",
+
+"ratPot" : "51",
+
+"hometown" : "Henderson",
+
+"ratTalent" : "74",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "68",
+
+"name" : "Marcel Astolfi",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"AMO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "75",
+
+"hometown" : "Washington",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "69",
+
+"name" : "Blair Elberson",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"ratOff" : "54",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "57",
+
+"homeState" : "Arizona",
+
+"ratPot" : "58",
+
+"hometown" : "Fort Mohave",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "60",
+
+"name" : "Colton Feichter",
+
+"contractYear" : "2"
+
+},
+
+"name" : "El Paso St",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "TUL",
+
+"prestige" : "55",
+
+"hexColor" : "#7C6642",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maryland",
+
+"ratPot" : "76",
+
+"hometown" : "Charlotte Hall",
+
+"ratTalent" : "56",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "65",
+
+"name" : "James Espada",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"STW"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maryland",
+
+"ratPot" : "79",
+
+"hometown" : "Damascus",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "57",
+
+"name" : "Trey Tharpe",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Wisconsin",
+
+"ratPot" : "70",
+
+"hometown" : "Madison",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "55",
+
+"name" : "Kurt Schlitz",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Tulsa",
+
+"state" : "Oklahoma"
+
+},
+
+{
+
+"abbreviation" : "STO",
+
+"prestige" : "50",
+
+"hexColor" : "#C99F05",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "78",
+
+"hometown" : "Moorhead",
+
+"ratTalent" : "50",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "59",
+
+"name" : "Blake Spinoso",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SMC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "88",
+
+"hometown" : "Northwest Washington",
+
+"ratTalent" : "81",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "74",
+
+"name" : "Brad Eggert",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "59",
+
+"homeState" : "Texas",
+
+"ratPot" : "63",
+
+"hometown" : "Windthorst",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "50",
+
+"name" : "Kellen Khouri",
+
+"contractYear" : "5"
+
+},
+
+"name" : "San Antonio",
+
+"state" : "Texas"
+
+}
+
+],
+
+"confFullName" : "Cowboy",
+
+"confPrestige" : "85",
+
+"confName" : "COWBY"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "PAL",
+
+"prestige" : "90",
+
+"hexColor" : "#9B8348",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Utah",
+
+"ratPot" : "68",
+
+"hometown" : "Brigham City",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "82",
+
+"name" : "Erik Chicas",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"ULA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "66",
+
+"hometown" : "Homosassa",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "90",
+
+"coachingAbility" : "80",
+
+"name" : "KJ Ironhorse",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "82",
+
+"homeState" : "Rhode Island",
+
+"ratPot" : "87",
+
+"hometown" : "Burrillville",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "90",
+
+"name" : "Uzoma Sports",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Palo Alto",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "EUG",
+
+"prestige" : "85",
+
+"hexColor" : "#F0B432",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Missouri",
+
+"ratPot" : "70",
+
+"hometown" : "Kahoka",
+
+"ratTalent" : "79",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "78",
+
+"name" : "Frank Tolston",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SEA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "64",
+
+"hometown" : "Aloha",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "61",
+
+"name" : "Tommy Vierra",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "80",
+
+"hometown" : "Mont Vernon",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "85",
+
+"name" : "Marc Meggison",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Eugene",
+
+"state" : "Oregon"
+
+},
+
+{
+
+"abbreviation" : "ULA",
+
+"prestige" : "80",
+
+"hexColor" : "#F7BD0A",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "American Samoa",
+
+"ratPot" : "95",
+
+"hometown" : "Leusoali‘i",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "71",
+
+"name" : "Moises Averitt",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"PAL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Kansas",
+
+"ratPot" : "56",
+
+"hometown" : "Corporate Woods",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "70",
+
+"name" : "Garret Bowsher",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "58",
+
+"homeState" : "Oregon",
+
+"ratPot" : "67",
+
+"hometown" : "Rockaway Beach",
+
+"ratTalent" : "81",
+
+"baselinePrestige" : "80",
+
+"name" : "Jared Knape",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Los Angeles",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "SEA",
+
+"prestige" : "75",
+
+"hexColor" : "#DFFF16",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Virginia",
+
+"ratPot" : "68",
+
+"hometown" : "Short Pump",
+
+"ratTalent" : "57",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "74",
+
+"name" : "Jamie Krishnamurthy",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"EUG"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Rhode Island",
+
+"ratPot" : "92",
+
+"hometown" : "Chepachet",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "66",
+
+"name" : "Leon Neilsen",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"ratOff" : "76",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "70",
+
+"homeState" : "Texas",
+
+"ratPot" : "93",
+
+"hometown" : "Burnet",
+
+"ratTalent" : "69",
+
+"baselinePrestige" : "75",
+
+"name" : "Kamrin Wilson",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Seattle",
+
+"state" : "Washington"
+
+},
+
+{
+
+"abbreviation" : "OAK",
+
+"prestige" : "75",
+
+"hexColor" : "#FFDC3E",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "50",
+
+"hometown" : "Southcrest",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "62",
+
+"name" : "Ross Gartenmayer",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"HOL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "88",
+
+"hometown" : "Bosque Farms",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "72",
+
+"name" : "Viane Gauntner",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "72",
+
+"homeState" : "Pennsylvania",
+
+"ratPot" : "67",
+
+"hometown" : "Denver",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "75",
+
+"name" : "Josh Gramby",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Oakland St",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "HOL",
+
+"prestige" : "70",
+
+"hexColor" : "#004CC2",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wisconsin",
+
+"ratPot" : "71",
+
+"hometown" : "Combined Locks",
+
+"ratTalent" : "87",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "67",
+
+"name" : "Ricky Digness",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"OAK"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "85",
+
+"hometown" : "Lowell",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "72",
+
+"name" : "Chinedu Riska",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "58",
+
+"homeState" : "Missouri",
+
+"ratPot" : "82",
+
+"hometown" : "Maitland",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "70",
+
+"name" : "DJ Bullo",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Hollywood St",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "HLU",
+
+"prestige" : "70",
+
+"hexColor" : "#FF9900",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington DC",
+
+"ratPot" : "79",
+
+"hometown" : "Dupont Circle",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "71",
+
+"name" : "Tim Mountcastle",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"SAM"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "59",
+
+"hometown" : "Jaffrey",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "67",
+
+"name" : "Nick Genis",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"ratOff" : "64",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "70",
+
+"hometown" : "Carthage",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "70",
+
+"name" : "Jay Hallam",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Honolulu",
+
+"state" : "Hawaii"
+
+},
+
+{
+
+"abbreviation" : "PUL",
+
+"prestige" : "70",
+
+"hexColor" : "#FFF500",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "86",
+
+"hometown" : "Monroe",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "71",
+
+"name" : "Sterling Suns",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SAN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "79",
+
+"hometown" : "Alton Bay",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "76",
+
+"name" : "Keon Hazy",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"ratOff" : "80",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "58",
+
+"homeState" : "California",
+
+"ratPot" : "81",
+
+"hometown" : "Richgrove",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "70",
+
+"name" : "Darius Hunsicker",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Pullman",
+
+"state" : "Washington"
+
+},
+
+{
+
+"abbreviation" : "SAN",
+
+"prestige" : "60",
+
+"hexColor" : "#827263",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wyoming",
+
+"ratPot" : "93",
+
+"hometown" : "Cowley",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "79",
+
+"name" : "Connor Foulds",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"PUL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "78",
+
+"hometown" : "Andover",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "68",
+
+"name" : "Billy Stahoski",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "Illinois",
+
+"ratPot" : "95",
+
+"hometown" : "Mokena",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "60",
+
+"name" : "Jamel Rozo",
+
+"contractYear" : "2"
+
+},
+
+"name" : "San Diego",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "SAM",
+
+"prestige" : "25",
+
+"hexColor" : "#EE3A42",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "75",
+
+"hometown" : "Lamont",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "25",
+
+"coachingAbility" : "52",
+
+"name" : "Deion Dolores",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"HLU"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "80",
+
+"hometown" : "Orford",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "25",
+
+"coachingAbility" : "52",
+
+"name" : "Caleb Empasis",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "54",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "42",
+
+"homeState" : "Texas",
+
+"ratPot" : "72",
+
+"hometown" : "Moore",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "25",
+
+"name" : "Derek Waycaster",
+
+"contractYear" : "2"
+
+},
+
+"name" : "American Samoa",
+
+"state" : "American Samoa"
+
+}
+
+],
+
+"confFullName" : "Pacific",
+
+"confPrestige" : "80",
+
+"confName" : "PACIF"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "SAL",
+
+"prestige" : "85",
+
+"hexColor" : "#CB992B",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington",
+
+"ratPot" : "56",
+
+"hometown" : "Anacortes",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "79",
+
+"name" : "Bradley Buttram",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SDY"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Colorado",
+
+"ratPot" : "74",
+
+"hometown" : "Basalt",
+
+"ratTalent" : "46",
+
+"baselinePrestige" : "85",
+
+"coachingAbility" : "83",
+
+"name" : "Bryson Baskin",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "78",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "68",
+
+"hometown" : "Fairland",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "85",
+
+"name" : "Toby Us",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Salt Lake St",
+
+"state" : "Utah"
+
+},
+
+{
+
+"abbreviation" : "BOU",
+
+"prestige" : "80",
+
+"hexColor" : "#F1C409",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "51",
+
+"hometown" : "Delta Junction",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "78",
+
+"name" : "Trip Melchert",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"CME"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Nevada",
+
+"ratPot" : "98",
+
+"hometown" : "South Shores",
+
+"ratTalent" : "77",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "74",
+
+"name" : "Hung Nau",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "79",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "76",
+
+"homeState" : "Florida",
+
+"ratPot" : "85",
+
+"hometown" : "Satellite Beach",
+
+"ratTalent" : "87",
+
+"baselinePrestige" : "80",
+
+"name" : "Donte Fridge",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Boulder",
+
+"state" : "Colorado"
+
+},
+
+{
+
+"abbreviation" : "CME",
+
+"prestige" : "75",
+
+"hexColor" : "#8B8B8B",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arizona",
+
+"ratPot" : "55",
+
+"hometown" : "Deer Valley",
+
+"ratTalent" : "56",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "76",
+
+"name" : "Darren Redhouse",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"BOU"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Michigan",
+
+"ratPot" : "97",
+
+"hometown" : "Goodells",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "74",
+
+"name" : "Reynaldo Roberie",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"ratOff" : "57",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "67",
+
+"homeState" : "Missouri",
+
+"ratPot" : "92",
+
+"hometown" : "Neelyville",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "75",
+
+"name" : "Morris Frum",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Commerce City",
+
+"state" : "Colorado"
+
+},
+
+{
+
+"abbreviation" : "SDY",
+
+"prestige" : "75",
+
+"hexColor" : "#557565",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Virginia",
+
+"ratPot" : "93",
+
+"hometown" : "Dumbarton",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "64",
+
+"name" : "Marvin Oksen",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"SAL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New York",
+
+"ratPot" : "57",
+
+"hometown" : "Little Italy",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "69",
+
+"name" : "Hunter Wethje",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "78",
+
+"homeState" : "Washington DC",
+
+"ratPot" : "84",
+
+"hometown" : "Dupont Circle",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "75",
+
+"name" : "Mario Fullmer",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Sandy",
+
+"state" : "Utah"
+
+},
+
+{
+
+"abbreviation" : "YEL",
+
+"prestige" : "75",
+
+"hexColor" : "#EE3A43",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Indiana",
+
+"ratPot" : "56",
+
+"hometown" : "Oaktown",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "74",
+
+"name" : "Rob Canfield",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"ALB"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "50",
+
+"hometown" : "Enterprise",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "68",
+
+"name" : "Rodney Gervase",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "52",
+
+"ratOff" : "57",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "53",
+
+"homeState" : "Ohio",
+
+"ratPot" : "75",
+
+"hometown" : "Norwood",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "75",
+
+"name" : "Bob Niwa",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Yellowstone St",
+
+"state" : "Wyoming"
+
+},
+
+{
+
+"abbreviation" : "ALB",
+
+"prestige" : "70",
+
+"hexColor" : "#FF652B",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Pennsylvania",
+
+"ratPot" : "91",
+
+"hometown" : "Sinking Spring",
+
+"ratTalent" : "86",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "68",
+
+"name" : "Joseph Chapoton",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"YEL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "70",
+
+"hometown" : "Eastman",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "63",
+
+"name" : "Simon Heise",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"ratOff" : "64",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "61",
+
+"homeState" : "Alabama",
+
+"ratPot" : "91",
+
+"hometown" : "Dauphin Island",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "70",
+
+"name" : "Tim Omalley",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Albuquerque",
+
+"state" : "New Mexico"
+
+},
+
+{
+
+"abbreviation" : "CHY",
+
+"prestige" : "60",
+
+"hexColor" : "#FFF500",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Nevada",
+
+"ratPot" : "76",
+
+"hometown" : "Schurz",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "66",
+
+"name" : "Leonardo Chehab",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"MON"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "72",
+
+"hometown" : "Quitman",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "72",
+
+"name" : "Jerome Dalluge",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "69",
+
+"hometown" : "Edgewood",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "60",
+
+"name" : "Larry Perham",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Cheyenne",
+
+"state" : "Wyoming"
+
+},
+
+{
+
+"abbreviation" : "MON",
+
+"prestige" : "55",
+
+"hexColor" : "#ED1B2E",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "50",
+
+"hometown" : "Englewood Cliffs",
+
+"ratTalent" : "57",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "56",
+
+"name" : "Vincent Lingley",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CHY"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Rhode Island",
+
+"ratPot" : "74",
+
+"hometown" : "Hopkinton",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "70",
+
+"name" : "Ron Vandawalker",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "52",
+
+"ratOff" : "57",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "57",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "86",
+
+"hometown" : "Farmington",
+
+"ratTalent" : "74",
+
+"baselinePrestige" : "55",
+
+"name" : "Darren Greenidge",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Montana",
+
+"state" : "Montana"
+
+},
+
+{
+
+"abbreviation" : "LSV",
+
+"prestige" : "50",
+
+"hexColor" : "#CCA61F",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "87",
+
+"hometown" : "Carrizozo",
+
+"ratTalent" : "87",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "56",
+
+"name" : "Spencer Graces",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"PHO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Idaho",
+
+"ratPot" : "50",
+
+"hometown" : "Bonners Ferry",
+
+"ratTalent" : "79",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "76",
+
+"name" : "Alex Hastin",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Montana",
+
+"ratPot" : "72",
+
+"hometown" : "Twin Bridges",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "50",
+
+"name" : "Warren Druckman",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Las Vegas",
+
+"state" : "Nevada"
+
+},
+
+{
+
+"abbreviation" : "PHO",
+
+"prestige" : "45",
+
+"hexColor" : "#FFDD00",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "68",
+
+"hometown" : "Cosby",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "66",
+
+"name" : "Antoine Morrone",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"LSV"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "91",
+
+"hometown" : "Sonora",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "63",
+
+"name" : "Terrell Deschamps",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"ratOff" : "65",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "Delaware",
+
+"ratPot" : "85",
+
+"hometown" : "Harrington",
+
+"ratTalent" : "62",
+
+"baselinePrestige" : "45",
+
+"name" : "Andre Axsom",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Phoenix",
+
+"state" : "Arizona"
+
+}
+
+],
+
+"confFullName" : "Mountain",
+
+"confPrestige" : "75",
+
+"confName" : "MOUNT"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "BOC",
+
+"prestige" : "75",
+
+"hexColor" : "#F0E8C4",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "72",
+
+"hometown" : "Thorne Bay",
+
+"ratTalent" : "66",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "72",
+
+"name" : "Aubrey Simmelink",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CAR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Illinois",
+
+"ratPot" : "89",
+
+"hometown" : "Springfield",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "78",
+
+"name" : "Taylor Carriere",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"ratOff" : "82",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "67",
+
+"homeState" : "Nevada",
+
+"ratPot" : "51",
+
+"hometown" : "Dayton",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "75",
+
+"name" : "Colt Petrunger",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Boca Raton",
+
+"state" : "Florida"
+
+},
+
+{
+
+"abbreviation" : "ARL",
+
+"prestige" : "75",
+
+"hexColor" : "#DC6000",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "99",
+
+"hometown" : "Bee Ridge",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "76",
+
+"name" : "Kenneth Nuckoles",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"LTR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "North Dakota",
+
+"ratPot" : "87",
+
+"hometown" : "Hope",
+
+"ratTalent" : "57",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "64",
+
+"name" : "Loren Novad",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "61",
+
+"homeState" : "Michigan",
+
+"ratPot" : "76",
+
+"hometown" : "Luna Pier",
+
+"ratTalent" : "78",
+
+"baselinePrestige" : "75",
+
+"name" : "Burton Junor",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Arlington",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "CAR",
+
+"prestige" : "70",
+
+"hexColor" : "#347C17",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "78",
+
+"hometown" : "Marina",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "61",
+
+"name" : "Dwayne Rabner",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"BOC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "71",
+
+"hometown" : "Washington Park",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "69",
+
+"name" : "Michael Desfosses",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "73",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "59",
+
+"homeState" : "Wisconsin",
+
+"ratPot" : "67",
+
+"hometown" : "Rosholt",
+
+"ratTalent" : "67",
+
+"baselinePrestige" : "70",
+
+"name" : "Leslie Peluso",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Carolina",
+
+"state" : "South Carolina"
+
+},
+
+{
+
+"abbreviation" : "BST",
+
+"prestige" : "70",
+
+"hexColor" : "#F5D130",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "West Virginia",
+
+"ratPot" : "58",
+
+"hometown" : "Oceana",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "73",
+
+"name" : "Elijah Crockwell",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"VAL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "68",
+
+"hometown" : "McMinnville",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "57",
+
+"name" : "Ronald Predom",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "67",
+
+"homeState" : "Florida",
+
+"ratPot" : "66",
+
+"hometown" : "Oviedo",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "70",
+
+"name" : "Paul Bungard",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Boone St",
+
+"state" : "North Carolina"
+
+},
+
+{
+
+"abbreviation" : "LAF",
+
+"prestige" : "70",
+
+"hexColor" : "#A82B3D",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wyoming",
+
+"ratPot" : "94",
+
+"hometown" : "Cowley",
+
+"ratTalent" : "74",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "73",
+
+"name" : "Ben Stovall",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"MRE"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "61",
+
+"hometown" : "Lovington",
+
+"ratTalent" : "81",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "69",
+
+"name" : "Wallace Thurston",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "69",
+
+"homeState" : "Nebraska",
+
+"ratPot" : "71",
+
+"hometown" : "Gering",
+
+"ratTalent" : "72",
+
+"baselinePrestige" : "70",
+
+"name" : "Hunter Braskey",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Lafayette",
+
+"state" : "Louisiana"
+
+},
+
+{
+
+"abbreviation" : "MRE",
+
+"prestige" : "65",
+
+"hexColor" : "#F5A329",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "67",
+
+"hometown" : "West Lebanon",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "63",
+
+"name" : "Wendell Laudenslager",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"LAF"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "67",
+
+"hometown" : "Burleson",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "59",
+
+"name" : "Gavin Cracas",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Ohio",
+
+"ratPot" : "80",
+
+"hometown" : "Cedarville",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "65",
+
+"name" : "Joshua Hermie",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Monroe",
+
+"state" : "Louisiana"
+
+},
+
+{
+
+"abbreviation" : "LTR",
+
+"prestige" : "60",
+
+"hexColor" : "#D7D8D8",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Nevada",
+
+"ratPot" : "58",
+
+"hometown" : "Boulder City",
+
+"ratTalent" : "66",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "63",
+
+"name" : "Matt Bernsen",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"ARL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Mississippi",
+
+"ratPot" : "59",
+
+"hometown" : "Forest",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "68",
+
+"name" : "Carlos Russer",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "52",
+
+"homeState" : "Montana",
+
+"ratPot" : "86",
+
+"hometown" : "Ekalaka",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "60",
+
+"name" : "Justin Cox",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Little Rock",
+
+"state" : "Arkansas"
+
+},
+
+{
+
+"abbreviation" : "MOB",
+
+"prestige" : "55",
+
+"hexColor" : "#F68F1E",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Montana",
+
+"ratPot" : "52",
+
+"hometown" : "Harlowton",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "66",
+
+"name" : "Drew Noy",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SMA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "92",
+
+"hometown" : "Corning",
+
+"ratTalent" : "47",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "71",
+
+"name" : "Damian Pila",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"ratOff" : "59",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "66",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "89",
+
+"hometown" : "Antlers",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "55",
+
+"name" : "Brent Stephensen",
+
+"contractYear" : "0"
+
+},
+
+"name" : "South Mobile",
+
+"state" : "Alabama"
+
+},
+
+{
+
+"abbreviation" : "VAL",
+
+"prestige" : "50",
+
+"hexColor" : "#2E8DC4",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "72",
+
+"hometown" : "Forest City",
+
+"ratTalent" : "66",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "66",
+
+"name" : "Josh Bodle",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"BST"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "52",
+
+"hometown" : "Albany",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "64",
+
+"name" : "Karl Luing",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Arizona",
+
+"ratPot" : "81",
+
+"hometown" : "Duncan",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "50",
+
+"name" : "Tyrone Greenman",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Valdosta",
+
+"state" : "Georgia"
+
+},
+
+{
+
+"abbreviation" : "SMA",
+
+"prestige" : "45",
+
+"hexColor" : "#75B2DD",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "62",
+
+"hometown" : "Seymour",
+
+"ratTalent" : "66",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "65",
+
+"name" : "Thurman Arujo",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MOB"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "75",
+
+"hometown" : "Riverton",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "45",
+
+"coachingAbility" : "64",
+
+"name" : "Martin Rochenstire",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"ratOff" : "60",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "51",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "72",
+
+"hometown" : "Mount Pleasant",
+
+"ratTalent" : "67",
+
+"baselinePrestige" : "45",
+
+"name" : "Trevon Fontenette",
+
+"contractYear" : "2"
+
+},
+
+"name" : "San Marcos",
+
+"state" : "Texas"
+
+}
+
+],
+
+"confFullName" : "Gulf Coast",
+
+"confPrestige" : "75",
+
+"confName" : "GULF"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "BOI",
+
+"prestige" : "80",
+
+"hexColor" : "#005486",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "52",
+
+"hometown" : "Alton",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "77",
+
+"name" : "Kyle Corprew",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"FRE"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "69",
+
+"hometown" : "Crescent",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "72",
+
+"name" : "Jerome Opyd",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "79",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "Iowa",
+
+"ratPot" : "84",
+
+"hometown" : "Lu Verne",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "80",
+
+"name" : "Ismael Faulkes",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Boise",
+
+"state" : "Idaho"
+
+},
+
+{
+
+"abbreviation" : "FRE",
+
+"prestige" : "75",
+
+"hexColor" : "#39734A",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "36",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "90",
+
+"hometown" : "Wintersville",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "70",
+
+"name" : "Wilfredo Joneson",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"BOI"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "West Virginia",
+
+"ratPot" : "67",
+
+"hometown" : "Gassaway",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "68",
+
+"name" : "Jack Laban",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "77",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "73",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "58",
+
+"hometown" : "Birmingham",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "75",
+
+"name" : "Gavin Gammill",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Fresno",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "PRO",
+
+"prestige" : "75",
+
+"hexColor" : "#6E7272",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Kentucky",
+
+"ratPot" : "52",
+
+"hometown" : "Confluence",
+
+"ratTalent" : "67",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "65",
+
+"name" : "Stewart Rossing",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"RNO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alabama",
+
+"ratPot" : "97",
+
+"hometown" : "Buhl",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "75",
+
+"name" : "Ashley McThay",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"ratOff" : "58",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "69",
+
+"homeState" : "Washington DC",
+
+"ratPot" : "64",
+
+"hometown" : "Dupont Circle",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "75",
+
+"name" : "Wade Loschiavo",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Provo",
+
+"state" : "Utah"
+
+},
+
+{
+
+"abbreviation" : "FCA",
+
+"prestige" : "70",
+
+"hexColor" : "#999DA0",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "52",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "81",
+
+"hometown" : "Yosemite Lakes",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "69",
+
+"name" : "John Wollan",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CLS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "73",
+
+"hometown" : "San Mateo",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "65",
+
+"name" : "Randolph Rashada",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "Montana",
+
+"ratPot" : "64",
+
+"hometown" : "Melstone",
+
+"ratTalent" : "56",
+
+"baselinePrestige" : "70",
+
+"name" : "Johnny McClimon",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Fort Collins",
+
+"state" : "Colorado"
+
+},
+
+{
+
+"abbreviation" : "UND",
+
+"prestige" : "70",
+
+"hexColor" : "#FCB131",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "63",
+
+"hometown" : "Tipton",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "76",
+
+"name" : "Abraham Bateman",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"RVR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Pennsylvania",
+
+"ratPot" : "67",
+
+"hometown" : "Osceola Mills",
+
+"ratTalent" : "70",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "77",
+
+"name" : "Brendan Ullman",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "32",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "Oregon",
+
+"ratPot" : "78",
+
+"hometown" : "La Pine",
+
+"ratTalent" : "93",
+
+"baselinePrestige" : "70",
+
+"name" : "Tim Weidemann",
+
+"contractYear" : "3"
+
+},
+
+"name" : "North Dakota",
+
+"state" : "North Dakota"
+
+},
+
+{
+
+"abbreviation" : "RNO",
+
+"prestige" : "65",
+
+"hexColor" : "#ABADB0",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "76",
+
+"hometown" : "Collinston",
+
+"ratTalent" : "51",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "77",
+
+"name" : "Calvin Ohland",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"PRO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "79",
+
+"hometown" : "Colfax",
+
+"ratTalent" : "49",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "69",
+
+"name" : "Emmanuel Bulgrin",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Georgia",
+
+"ratPot" : "86",
+
+"hometown" : "Pelham",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "65",
+
+"name" : "Alfonso Pasko",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Reno",
+
+"state" : "Nevada"
+
+},
+
+{
+
+"abbreviation" : "CLS",
+
+"prestige" : "65",
+
+"hexColor" : "#FFFF66",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alaska",
+
+"ratPot" : "87",
+
+"hometown" : "Tununak",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "66",
+
+"name" : "Damian Gierut",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"FCA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "94",
+
+"hometown" : "Tyrone",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "66",
+
+"name" : "Tom Kuman",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "67",
+
+"homeState" : "Georgia",
+
+"ratPot" : "86",
+
+"hometown" : "Clayton",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "65",
+
+"name" : "Ron Stelle",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Colorado Springs",
+
+"state" : "Colorado"
+
+},
+
+{
+
+"abbreviation" : "RVR",
+
+"prestige" : "55",
+
+"hexColor" : "#006700",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "58",
+
+"hometown" : "June Lake",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "58",
+
+"name" : "Dylan Tumlin",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"UND"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Kansas",
+
+"ratPot" : "80",
+
+"hometown" : "Gardner",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "54",
+
+"name" : "Nelson Ownby",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "74",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "77",
+
+"homeState" : "Washington",
+
+"ratPot" : "59",
+
+"hometown" : "Davenport",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "55",
+
+"name" : "Russ Vounas",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Riverside",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "SJC",
+
+"prestige" : "55",
+
+"hexColor" : "#FFC700",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "94",
+
+"hometown" : "Somerset",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "64",
+
+"name" : "Eddie Hird",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"SAC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "North Dakota",
+
+"ratPot" : "97",
+
+"hometown" : "Bantry",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "58",
+
+"name" : "Rashaad Kobrin",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "67",
+
+"homeState" : "Alaska",
+
+"ratPot" : "63",
+
+"hometown" : "Wrangell",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "55",
+
+"name" : "Dalton Stjuste",
+
+"contractYear" : "5"
+
+},
+
+"name" : "San Jose",
+
+"state" : "California"
+
+},
+
+{
+
+"abbreviation" : "SAC",
+
+"prestige" : "50",
+
+"hexColor" : "#FFB923",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "66",
+
+"hometown" : "Sutherlin",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "75",
+
+"name" : "Kylan Ceballos",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SJC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Vermont",
+
+"ratPot" : "59",
+
+"hometown" : "Wilder",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "63",
+
+"name" : "Tommy Wigg",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "59",
+
+"homeState" : "Georgia",
+
+"ratPot" : "79",
+
+"hometown" : "Sardis",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "50",
+
+"name" : "Lane Lubben",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Sacramento",
+
+"state" : "California"
+
+}
+
+],
+
+"confFullName" : "Northwest",
+
+"confPrestige" : "70",
+
+"confName" : "NWST"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "APT",
+
+"prestige" : "80",
+
+"hexColor" : "#00A000",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "59",
+
+"hometown" : "Norwood",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "76",
+
+"name" : "Hiram Maobi",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"VRG"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "78",
+
+"hometown" : "Halfway",
+
+"ratTalent" : "70",
+
+"baselinePrestige" : "80",
+
+"coachingAbility" : "68",
+
+"name" : "Andrew Risien",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "66",
+
+"homeState" : "Indiana",
+
+"ratPot" : "54",
+
+"hometown" : "West Baden Springs",
+
+"ratTalent" : "93",
+
+"baselinePrestige" : "80",
+
+"name" : "Roland Iburg",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Appalachian Tech",
+
+"state" : "Virginia"
+
+},
+
+{
+
+"abbreviation" : "CHP",
+
+"prestige" : "75",
+
+"hexColor" : "#C3C4C6",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "South Carolina",
+
+"ratPot" : "72",
+
+"hometown" : "Pineland",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "81",
+
+"name" : "Adolph Flever",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"DUR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arizona",
+
+"ratPot" : "62",
+
+"hometown" : "Catalina",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "61",
+
+"name" : "Austin Ke",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Iowa",
+
+"ratPot" : "65",
+
+"hometown" : "Cedar Rapids",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "75",
+
+"name" : "Cody Fox",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Chapel Hill",
+
+"state" : "North Carolina"
+
+},
+
+{
+
+"abbreviation" : "VRG",
+
+"prestige" : "70",
+
+"hexColor" : "#004CC2",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "52",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Alabama",
+
+"ratPot" : "99",
+
+"hometown" : "Tallassee",
+
+"ratTalent" : "86",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "67",
+
+"name" : "Carl Mestas",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"APT"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "55",
+
+"hometown" : "Magalia",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "71",
+
+"name" : "Dewayne Anderson",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "Montana",
+
+"ratPot" : "83",
+
+"hometown" : "Malmstrom AFB",
+
+"ratTalent" : "47",
+
+"baselinePrestige" : "70",
+
+"name" : "Broderick Dearman",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Virginia",
+
+"state" : "Virginia"
+
+},
+
+{
+
+"abbreviation" : "DUR",
+
+"prestige" : "70",
+
+"hexColor" : "#FDB813",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Idaho",
+
+"ratPot" : "91",
+
+"hometown" : "Payette",
+
+"ratTalent" : "68",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "84",
+
+"name" : "Ray McGuffin",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CHP"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "78",
+
+"hometown" : "Moriarty",
+
+"ratTalent" : "60",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "74",
+
+"name" : "Creed Besant",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"ratOff" : "76",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "81",
+
+"homeState" : "Michigan",
+
+"ratPot" : "58",
+
+"hometown" : "Glen Arbor",
+
+"ratTalent" : "84",
+
+"baselinePrestige" : "70",
+
+"name" : "Loren Eyton",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Durham",
+
+"state" : "North Carolina"
+
+},
+
+{
+
+"abbreviation" : "RAL",
+
+"prestige" : "70",
+
+"hexColor" : "#827263",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "87",
+
+"hometown" : "Bridgeville",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "67",
+
+"name" : "Connor Dunleavy",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"DEL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "90",
+
+"hometown" : "Foggy Bottom",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "74",
+
+"name" : "Joshua Serrato",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"ratOff" : "81",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "69",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "94",
+
+"hometown" : "Middlebury",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "70",
+
+"name" : "Joey Craun",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Raleigh",
+
+"state" : "North Carolina"
+
+},
+
+{
+
+"abbreviation" : "MTW",
+
+"prestige" : "70",
+
+"hexColor" : "#0067AC",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maine",
+
+"ratPot" : "74",
+
+"hometown" : "Islesboro",
+
+"ratTalent" : "60",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "73",
+
+"name" : "Adrian Vasey",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"PRO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "67",
+
+"hometown" : "Lake Butler",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "78",
+
+"name" : "Angelo Kimball",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "70",
+
+"homeState" : "Rhode Island",
+
+"ratPot" : "53",
+
+"hometown" : "Bristol",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "70",
+
+"name" : "Tre Myking",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Morgantown",
+
+"state" : "West Virginia"
+
+},
+
+{
+
+"abbreviation" : "DEL",
+
+"prestige" : "65",
+
+"hexColor" : "#BDB76B",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "58",
+
+"hometown" : "Lincoln Park",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "Ali Vicari",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"RAL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Minnesota",
+
+"ratPot" : "75",
+
+"hometown" : "Bemidji",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "66",
+
+"name" : "Oliver Beneker",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"ratOff" : "71",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "70",
+
+"homeState" : "California",
+
+"ratPot" : "62",
+
+"hometown" : "Rio Lindo",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "65",
+
+"name" : "Bill Le",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Delaware",
+
+"state" : "Delaware"
+
+},
+
+{
+
+"abbreviation" : "RND",
+
+"prestige" : "55",
+
+"hexColor" : "#AAAAAA",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maine",
+
+"ratPot" : "54",
+
+"hometown" : "West Newfield",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "62",
+
+"name" : "Morgan Ostrosky",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MTW"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "77",
+
+"hometown" : "Tenaha",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "57",
+
+"name" : "Jordan Greene",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "73",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Florida",
+
+"ratPot" : "61",
+
+"hometown" : "Fort Myers",
+
+"ratTalent" : "81",
+
+"baselinePrestige" : "55",
+
+"name" : "Jimmy Sherrill",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Rand",
+
+"state" : "West Virginia"
+
+},
+
+{
+
+"abbreviation" : "NJS",
+
+"prestige" : "50",
+
+"hexColor" : "#BAA008",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Colorado",
+
+"ratPot" : "63",
+
+"hometown" : "Thornton",
+
+"ratTalent" : "63",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "74",
+
+"name" : "Stephan Hair",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"HRS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "63",
+
+"hometown" : "Silver Springs Shores",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "70",
+
+"name" : "Allen Daubert",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "58",
+
+"homeState" : "Nevada",
+
+"ratPot" : "80",
+
+"hometown" : "Mesquite",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "50",
+
+"name" : "Jeremy Felico",
+
+"contractYear" : "5"
+
+},
+
+"name" : "New Jersey St",
+
+"state" : "New Jersey"
+
+},
+
+{
+
+"abbreviation" : "HRS",
+
+"prestige" : "50",
+
+"hexColor" : "#F4A42A",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Idaho",
+
+"ratPot" : "67",
+
+"hometown" : "Glenns Ferry",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "60",
+
+"name" : "Mark Vantuyle",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"NJS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "77",
+
+"hometown" : "Marietta",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "67",
+
+"name" : "JT Blache",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "71",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "59",
+
+"homeState" : "South Dakota",
+
+"ratPot" : "52",
+
+"hometown" : "Scotland",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "50",
+
+"name" : "Mark Kaltved",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Harrisburg",
+
+"state" : "Pennsylvania"
+
+}
+
+],
+
+"confFullName" : "Mid Atlantic",
+
+"confPrestige" : "70",
+
+"confName" : "MATL"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "CTN",
+
+"prestige" : "75",
+
+"hexColor" : "#FCF5BA",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "52",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington",
+
+"ratPot" : "70",
+
+"hometown" : "Freeland",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "65",
+
+"name" : "CJ Corderman",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"TOL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "North Carolina",
+
+"ratPot" : "98",
+
+"hometown" : "Currituck",
+
+"ratTalent" : "72",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "71",
+
+"name" : "Jaylon Sanders",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"ratOff" : "60",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "94",
+
+"hometown" : "Las Cruces",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "75",
+
+"name" : "Ron Fendley",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Canton",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "NPT",
+
+"prestige" : "75",
+
+"hexColor" : "#FFD117",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wyoming",
+
+"ratPot" : "61",
+
+"hometown" : "Lyman",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "74",
+
+"name" : "Mykel Shogren",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"SPR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "70",
+
+"hometown" : "Pleasant Plain",
+
+"ratTalent" : "46",
+
+"baselinePrestige" : "75",
+
+"coachingAbility" : "68",
+
+"name" : "Roy Gillentine",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Kentucky",
+
+"ratPot" : "94",
+
+"hometown" : "Harlan",
+
+"ratTalent" : "47",
+
+"baselinePrestige" : "75",
+
+"name" : "Tanner Delaine",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Newport",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "NYP",
+
+"prestige" : "65",
+
+"hexColor" : "#80FBFF",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "39",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Minnesota",
+
+"ratPot" : "60",
+
+"hometown" : "Blackduck",
+
+"ratTalent" : "62",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "69",
+
+"name" : "Devon Simpson",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"CTN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Mississippi",
+
+"ratPot" : "80",
+
+"hometown" : "Centreville",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "69",
+
+"name" : "Evan Yarrito",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"ratOff" : "65",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "77",
+
+"homeState" : "Nebraska",
+
+"ratPot" : "95",
+
+"hometown" : "Winnebago",
+
+"ratTalent" : "79",
+
+"baselinePrestige" : "65",
+
+"name" : "Derek Vollmer",
+
+"contractYear" : "4"
+
+},
+
+"name" : "New York Upstate",
+
+"state" : "New York"
+
+},
+
+{
+
+"abbreviation" : "IPS",
+
+"prestige" : "65",
+
+"hexColor" : "#0049AE",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "54",
+
+"hometown" : "Carthay Circle",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "65",
+
+"name" : "Jacob Boan",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"ILC"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "77",
+
+"hometown" : "Leavittsburg",
+
+"ratTalent" : "61",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "William Sylva",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "57",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "57",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "87",
+
+"hometown" : "Sullivan",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "65",
+
+"name" : "Dominique Motto",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Indianapolis",
+
+"state" : "Indiana"
+
+},
+
+{
+
+"abbreviation" : "ILC",
+
+"prestige" : "65",
+
+"hexColor" : "#F1C409",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Delaware",
+
+"ratPot" : "59",
+
+"hometown" : "Newark",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "73",
+
+"name" : "Philip Longiotti",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"IPS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington",
+
+"ratPot" : "93",
+
+"hometown" : "Delridge",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "77",
+
+"name" : "Nigel Knobbe",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "California",
+
+"ratPot" : "84",
+
+"hometown" : "Shasta Lake",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "65",
+
+"name" : "Terrance People",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Illinois Central",
+
+"state" : "Illinois"
+
+},
+
+{
+
+"abbreviation" : "SPR",
+
+"prestige" : "65",
+
+"hexColor" : "#75B2DD",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "33",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wyoming",
+
+"ratPot" : "56",
+
+"hometown" : "Buffalo",
+
+"ratTalent" : "56",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "68",
+
+"name" : "Russell Mosimann",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"NPT"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "98",
+
+"hometown" : "Earlham",
+
+"ratTalent" : "75",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "70",
+
+"name" : "Marques Trial",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"ratOff" : "76",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "57",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "72",
+
+"hometown" : "Roxbury",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "65",
+
+"name" : "Cody Singo",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Springfield",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "TOL",
+
+"prestige" : "60",
+
+"hexColor" : "#9DB7C4",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "54",
+
+"hometown" : "Waycross",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "61",
+
+"name" : "Ross Merrigan",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"CTN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "45",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maryland",
+
+"ratPot" : "94",
+
+"hometown" : "Federalsburg",
+
+"ratTalent" : "51",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "65",
+
+"name" : "Adam Daven",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "California",
+
+"ratPot" : "79",
+
+"hometown" : "Corning",
+
+"ratTalent" : "66",
+
+"baselinePrestige" : "60",
+
+"name" : "Terry Josich",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Toledo",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "OXF",
+
+"prestige" : "60",
+
+"hexColor" : "#FFD51F",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "87",
+
+"hometown" : "Claremont",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "69",
+
+"name" : "Coleman Winkelmann",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SOH"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Maryland",
+
+"ratPot" : "96",
+
+"hometown" : "Funkstown",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "73",
+
+"name" : "Emanuel Clemen",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "American Samoa",
+
+"ratPot" : "50",
+
+"hometown" : "Fiti‘uta",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "60",
+
+"name" : "Matthew Lindenberg",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Oxford",
+
+"state" : "Ohio"
+
+},
+
+{
+
+"abbreviation" : "MPU",
+
+"prestige" : "55",
+
+"hexColor" : "#DFFF16",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Virginia",
+
+"ratPot" : "74",
+
+"hometown" : "Chase City",
+
+"ratTalent" : "88",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "63",
+
+"name" : "Derron Schucker",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"NYP"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "South Dakota",
+
+"ratPot" : "66",
+
+"hometown" : "Bridgewater",
+
+"ratTalent" : "69",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "56",
+
+"name" : "Adan Rattliff",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "65",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "77",
+
+"hometown" : "Hatch",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "55",
+
+"name" : "Edwardo Lason",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Michigan Pnla",
+
+"state" : "Michigan"
+
+},
+
+{
+
+"abbreviation" : "SOH",
+
+"prestige" : "55",
+
+"hexColor" : "#00693E",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Mississippi",
+
+"ratPot" : "57",
+
+"hometown" : "Horn Lake",
+
+"ratTalent" : "64",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "55",
+
+"name" : "Clayton Navarra",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"OXF"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "South Dakota",
+
+"ratPot" : "55",
+
+"hometown" : "Hitchcock",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "66",
+
+"name" : "Roderick Quinlan",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"ratOff" : "73",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "Virginia",
+
+"ratPot" : "73",
+
+"hometown" : "Kilmarnock",
+
+"ratTalent" : "79",
+
+"baselinePrestige" : "55",
+
+"name" : "Gabe Sinner",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Southern Ohio",
+
+"state" : "Ohio"
+
+}
+
+],
+
+"confFullName" : "Plains",
+
+"confPrestige" : "65",
+
+"confName" : "PLNS"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "MCO",
+
+"prestige" : "70",
+
+"hexColor" : "#FFD51F",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Hawaii",
+
+"ratPot" : "57",
+
+"hometown" : "Pahala",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "59",
+
+"name" : "Timothy McCarey",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"HTF"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oregon",
+
+"ratPot" : "95",
+
+"hometown" : "Butte Falls",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "69",
+
+"name" : "Ted Trew",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "74",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "51",
+
+"hometown" : "Bloomfield",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "70",
+
+"name" : "Frank Tsuji",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Orlando",
+
+"state" : "Florida"
+
+},
+
+{
+
+"abbreviation" : "CKY",
+
+"prestige" : "70",
+
+"hexColor" : "#A7A9AC",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Hampshire",
+
+"ratPot" : "90",
+
+"hometown" : "Whitefield",
+
+"ratTalent" : "93",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "68",
+
+"name" : "Kerry Daking",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"SWK"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Washington",
+
+"ratPot" : "83",
+
+"hometown" : "South Hill",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "71",
+
+"name" : "Branden Doporto",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"ratOff" : "69",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "67",
+
+"homeState" : "Florida",
+
+"ratPot" : "89",
+
+"hometown" : "Deltona",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "70",
+
+"name" : "Patrick Daughters",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Central Kentucky",
+
+"state" : "Kentucky"
+
+},
+
+{
+
+"abbreviation" : "HTF",
+
+"prestige" : "65",
+
+"hexColor" : "#FF4A00",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Wyoming",
+
+"ratPot" : "74",
+
+"hometown" : "Reliance",
+
+"ratTalent" : "65",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "Mitchell Zambrano",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"MCO"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Montana",
+
+"ratPot" : "69",
+
+"hometown" : "Medicine Lake",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "58",
+
+"name" : "Mario Born",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"ratOff" : "60",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "59",
+
+"homeState" : "Arizona",
+
+"ratPot" : "80",
+
+"hometown" : "Payson",
+
+"ratTalent" : "92",
+
+"baselinePrestige" : "65",
+
+"name" : "Bennett Mingledorff",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Hartford",
+
+"state" : "Connecticut"
+
+},
+
+{
+
+"abbreviation" : "TMP",
+
+"prestige" : "65",
+
+"hexColor" : "#E31736",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "49",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Idaho",
+
+"ratPot" : "50",
+
+"hometown" : "Parma",
+
+"ratTalent" : "60",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "Chauncey Munaz",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"GRE"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "South Carolina",
+
+"ratPot" : "57",
+
+"hometown" : "Latta",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "62",
+
+"name" : "Trenton Saidi",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "47",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "64",
+
+"homeState" : "South Dakota",
+
+"ratPot" : "89",
+
+"hometown" : "Kadoka",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "65",
+
+"name" : "Jim Bridenbaker",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Tampa St",
+
+"state" : "Florida"
+
+},
+
+{
+
+"abbreviation" : "OSN",
+
+"prestige" : "65",
+
+"hexColor" : "#DBCDFF",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "California",
+
+"ratPot" : "57",
+
+"hometown" : "Wilson",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "61",
+
+"name" : "Brett Ewy",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"STA"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "99",
+
+"hometown" : "Glenpool",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "71",
+
+"name" : "Robert Kagay",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"ratOff" : "62",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "74",
+
+"homeState" : "Oregon",
+
+"ratPot" : "68",
+
+"hometown" : "Heppner",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "65",
+
+"name" : "Norman Velandia",
+
+"contractYear" : "2"
+
+},
+
+"name" : "Oklahoma Sthrn",
+
+"state" : "Oklahoma"
+
+},
+
+{
+
+"abbreviation" : "MHT",
+
+"prestige" : "65",
+
+"hexColor" : "#FDBB30",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arizona",
+
+"ratPot" : "90",
+
+"hometown" : "Bisbee",
+
+"ratTalent" : "69",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "58",
+
+"name" : "Isaiah Section",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"WCH"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "63",
+
+"hometown" : "Cuyamungue",
+
+"ratTalent" : "87",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "77",
+
+"name" : "Cornelius Bungay",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"ratOff" : "67",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "60",
+
+"homeState" : "Alabama",
+
+"ratPot" : "98",
+
+"hometown" : "Highland Park",
+
+"ratTalent" : "70",
+
+"baselinePrestige" : "65",
+
+"name" : "Abdul Quon",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Manhattan",
+
+"state" : "Kansas"
+
+},
+
+{
+
+"abbreviation" : "STA",
+
+"prestige" : "60",
+
+"hexColor" : "#F88400",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "91",
+
+"hometown" : "Vonore",
+
+"ratTalent" : "83",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "78",
+
+"name" : "Sami Guffey",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"OSN"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "78",
+
+"hometown" : "Northgate",
+
+"ratTalent" : "74",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "74",
+
+"name" : "Steve McArdle",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "53",
+
+"homeState" : "District of Columbia",
+
+"ratPot" : "83",
+
+"hometown" : "Southeast Washington",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "60",
+
+"name" : "Jeff Laflin",
+
+"contractYear" : "2"
+
+},
+
+"name" : "San Antonio St",
+
+"state" : "Texas"
+
+},
+
+{
+
+"abbreviation" : "GRE",
+
+"prestige" : "55",
+
+"hexColor" : "#A08B4D",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Michigan",
+
+"ratPot" : "51",
+
+"hometown" : "Alpena",
+
+"ratTalent" : "62",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "62",
+
+"name" : "Glen Reiner",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"TMP"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Virginia",
+
+"ratPot" : "83",
+
+"hometown" : "Fairfax",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "58",
+
+"name" : "RJ Shurr",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"ratOff" : "53",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "58",
+
+"homeState" : "Texas",
+
+"ratPot" : "78",
+
+"hometown" : "Quinlan",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "55",
+
+"name" : "Dave Hamidi",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Greenville",
+
+"state" : "South Carolina"
+
+},
+
+{
+
+"abbreviation" : "WCH",
+
+"prestige" : "55",
+
+"hexColor" : "#FCBB0D",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Colorado",
+
+"ratPot" : "69",
+
+"hometown" : "Hugo",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "60",
+
+"name" : "James Yerkovich",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"MHT"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Florida",
+
+"ratPot" : "80",
+
+"hometown" : "Cape Coral",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "65",
+
+"name" : "Hiram Isabell",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "57",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "66",
+
+"hometown" : "Empire",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "55",
+
+"name" : "Deondre Richard",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Wichita",
+
+"state" : "Kansas"
+
+},
+
+{
+
+"abbreviation" : "SWK",
+
+"prestige" : "50",
+
+"hexColor" : "#A67D3D",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "57",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Utah",
+
+"ratPot" : "94",
+
+"hometown" : "Eureka",
+
+"ratTalent" : "56",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "73",
+
+"name" : "Donnie Zaner",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CKY"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "82",
+
+"hometown" : "Slaughter",
+
+"ratTalent" : "50",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "77",
+
+"name" : "Miles Pettigrew",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "55",
+
+"homeState" : "California",
+
+"ratPot" : "72",
+
+"hometown" : "El Monte",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "50",
+
+"name" : "Tanner Bellomo",
+
+"contractYear" : "1"
+
+},
+
+"name" : "SW Kentucky",
+
+"state" : "Kentucky"
+
+}
+
+],
+
+"confFullName" : "Eastern",
+
+"confPrestige" : "70",
+
+"confName" : "EAST"
+
+},
+
+{
+
+"confTeams" : [
+
+{
+
+"abbreviation" : "BIR",
+
+"prestige" : "70",
+
+"hexColor" : "#FEE818",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "54",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "77",
+
+"hometown" : "Closter",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "73",
+
+"name" : "AJ Zavodny",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"DTS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Illinois",
+
+"ratPot" : "70",
+
+"hometown" : "Dixon",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "70",
+
+"coachingAbility" : "72",
+
+"name" : "Gareth Redlin",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "58",
+
+"ratOff" : "63",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "74",
+
+"homeState" : "Texas",
+
+"ratPot" : "76",
+
+"hometown" : "Tioga",
+
+"ratTalent" : "55",
+
+"baselinePrestige" : "70",
+
+"name" : "Gerald Gaffer",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Birmingham",
+
+"state" : "Alabama"
+
+},
+
+{
+
+"abbreviation" : "STL",
+
+"prestige" : "65",
+
+"hexColor" : "#AC928A",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "51",
+
+"hometown" : "Clermont",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "66",
+
+"name" : "Jaleel Mildenberger",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"MFB"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Pennsylvania",
+
+"ratPot" : "82",
+
+"hometown" : "Venango",
+
+"ratTalent" : "85",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "62",
+
+"name" : "Frank Batesole",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"ratOff" : "66",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "71",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "52",
+
+"hometown" : "Carrizozo",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "65",
+
+"name" : "Wiley Staib",
+
+"contractYear" : "5"
+
+},
+
+"name" : "St Louis",
+
+"state" : "Missouri"
+
+},
+
+{
+
+"abbreviation" : "GFS",
+
+"prestige" : "65",
+
+"hexColor" : "#C2BFBC",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "48",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Tennessee",
+
+"ratPot" : "84",
+
+"hometown" : "Oakdale",
+
+"ratTalent" : "93",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "77",
+
+"name" : "Kingsley Faria",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"JCK"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Arizona",
+
+"ratPot" : "85",
+
+"hometown" : "Downtown",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "72",
+
+"name" : "Garrett Granneman",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"ratOff" : "68",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "76",
+
+"homeState" : "Louisiana",
+
+"ratPot" : "97",
+
+"hometown" : "Springhill",
+
+"ratTalent" : "50",
+
+"baselinePrestige" : "65",
+
+"name" : "Riley Treml",
+
+"contractYear" : "3"
+
+},
+
+"name" : "Gulf St",
+
+"state" : "Mississippi"
+
+},
+
+{
+
+"abbreviation" : "MAK",
+
+"prestige" : "65",
+
+"hexColor" : "#025BA3",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "52",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Georgia",
+
+"ratPot" : "73",
+
+"hometown" : "Conley",
+
+"ratTalent" : "87",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "65",
+
+"name" : "Arthur Newby",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"KSI"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "55",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Mexico",
+
+"ratPot" : "63",
+
+"hometown" : "Thoreau",
+
+"ratTalent" : "45",
+
+"baselinePrestige" : "65",
+
+"coachingAbility" : "82",
+
+"name" : "Lucas Canzoneri",
+
+"contractYear" : "2"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "53",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "Oklahoma",
+
+"ratPot" : "66",
+
+"hometown" : "Bartlesville",
+
+"ratTalent" : "53",
+
+"baselinePrestige" : "65",
+
+"name" : "Kobe Porietis",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Middle Arkansas",
+
+"state" : "Arkansas"
+
+},
+
+{
+
+"abbreviation" : "JCK",
+
+"prestige" : "60",
+
+"hexColor" : "#DD550C",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "59",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Rhode Island",
+
+"ratPot" : "75",
+
+"hometown" : "Cumberland",
+
+"ratTalent" : "82",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "73",
+
+"name" : "Tremayne Dollar",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"GFS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Ohio",
+
+"ratPot" : "86",
+
+"hometown" : "Ostrander",
+
+"ratTalent" : "86",
+
+"baselinePrestige" : "60",
+
+"coachingAbility" : "71",
+
+"name" : "Seth Vaninetti",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"ratOff" : "64",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "56",
+
+"homeState" : "Arizona",
+
+"ratPot" : "56",
+
+"hometown" : "Mohave Valley",
+
+"ratTalent" : "71",
+
+"baselinePrestige" : "60",
+
+"name" : "George Gryszowka",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Jackson",
+
+"state" : "Mississippi"
+
+},
+
+{
+
+"abbreviation" : "MFB",
+
+"prestige" : "55",
+
+"hexColor" : "#0053A0",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "44",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Texas",
+
+"ratPot" : "68",
+
+"hometown" : "Andrews",
+
+"ratTalent" : "59",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "62",
+
+"name" : "Lance Kundtz",
+
+"contractYear" : "1"
+
+},
+
+"rival" : [
+
+"STL"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "37",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Mississippi",
+
+"ratPot" : "50",
+
+"hometown" : "Lucedale",
+
+"ratTalent" : "48",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "70",
+
+"name" : "Kenneth Delevik",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "40",
+
+"ratOff" : "75",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "West Virginia",
+
+"ratPot" : "72",
+
+"hometown" : "Parsons",
+
+"ratTalent" : "56",
+
+"baselinePrestige" : "55",
+
+"name" : "Antoine Chudzinski",
+
+"contractYear" : "0"
+
+},
+
+"name" : "Murfeesboro",
+
+"state" : "Tennessee"
+
+},
+
+{
+
+"abbreviation" : "DTS",
+
+"prestige" : "55",
+
+"hexColor" : "#557565",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "50",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Virginia",
+
+"ratPot" : "77",
+
+"hometown" : "Sterling",
+
+"ratTalent" : "80",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "69",
+
+"name" : "Frankie Fason",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"BIR"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "34",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New York",
+
+"ratPot" : "78",
+
+"hometown" : "South Wales",
+
+"ratTalent" : "73",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "65",
+
+"name" : "Bernie Cummiskey",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "51",
+
+"ratOff" : "64",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "62",
+
+"homeState" : "Nebraska",
+
+"ratPot" : "77",
+
+"hometown" : "Albion",
+
+"ratTalent" : "57",
+
+"baselinePrestige" : "55",
+
+"name" : "Shun Walch",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Destin St",
+
+"state" : "Florida"
+
+},
+
+{
+
+"abbreviation" : "RST",
+
+"prestige" : "55",
+
+"hexColor" : "#D1D5D8",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "38",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Illinois",
+
+"ratPot" : "72",
+
+"hometown" : "Lake Villa",
+
+"ratTalent" : "89",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "61",
+
+"name" : "Marquis Ogwin",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"CMS"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "2",
+
+"startYear" : "2022",
+
+"age" : "41",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "North Dakota",
+
+"ratPot" : "70",
+
+"hometown" : "Cando",
+
+"ratTalent" : "58",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "75",
+
+"name" : "Jaquan Weygandt",
+
+"contractYear" : "0"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "70",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "63",
+
+"homeState" : "Connecticut",
+
+"ratPot" : "90",
+
+"hometown" : "Canterbury",
+
+"ratTalent" : "76",
+
+"baselinePrestige" : "55",
+
+"name" : "Lionel Silverberg",
+
+"contractYear" : "1"
+
+},
+
+"name" : "Ruston",
+
+"state" : "Louisiana"
+
+},
+
+{
+
+"abbreviation" : "CMS",
+
+"prestige" : "55",
+
+"hexColor" : "#FDEE8B",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "1",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New York",
+
+"ratPot" : "95",
+
+"hometown" : "Fishkill",
+
+"ratTalent" : "52",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "69",
+
+"name" : "Cole Champagne",
+
+"contractYear" : "0"
+
+},
+
+"rival" : [
+
+"RST"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "56",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "New Jersey",
+
+"ratPot" : "85",
+
+"hometown" : "Bordentown Township",
+
+"ratTalent" : "54",
+
+"baselinePrestige" : "55",
+
+"coachingAbility" : "67",
+
+"name" : "Joshua Me",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "35",
+
+"ratOff" : "61",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "68",
+
+"homeState" : "Alabama",
+
+"ratPot" : "81",
+
+"hometown" : "Demopolis",
+
+"ratTalent" : "94",
+
+"baselinePrestige" : "55",
+
+"name" : "Jojo Hood",
+
+"contractYear" : "5"
+
+},
+
+"name" : "Coastal Miss",
+
+"state" : "Mississippi"
+
+},
+
+{
+
+"abbreviation" : "KSI",
+
+"prestige" : "50",
+
+"hexColor" : "#0F4D92",
+
+"rivalryNames" : {
+
+
+},
+
+"offCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "43",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Colorado",
+
+"ratPot" : "88",
+
+"hometown" : "Dove Creek",
+
+"ratTalent" : "90",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "70",
+
+"name" : "Keith Bartamian",
+
+"contractYear" : "2"
+
+},
+
+"rival" : [
+
+"MAK"
+
+],
+
+"defCoordinator" : {
+
+"contractLength" : "3",
+
+"startYear" : "2022",
+
+"age" : "42",
+
+"cumulativePrestige" : "0",
+
+"homeState" : "Iowa",
+
+"ratPot" : "72",
+
+"hometown" : "Walcott",
+
+"ratTalent" : "91",
+
+"baselinePrestige" : "50",
+
+"coachingAbility" : "54",
+
+"name" : "Jeff Quero",
+
+"contractYear" : "1"
+
+},
+
+"headCoach" : {
+
+"contractLength" : "6",
+
+"startYear" : "2022",
+
+"age" : "46",
+
+"ratOff" : "53",
+
+"cumulativePrestige" : "0",
+
+"ratDef" : "54",
+
+"homeState" : "Ohio",
+
+"ratPot" : "69",
+
+"hometown" : "Defiance",
+
+"ratTalent" : "73",
+
+"baselinePrestige" : "50",
+
+"name" : "Mark McGarrell",
+
+"contractYear" : "4"
+
+},
+
+"name" : "Kansas Intl",
+
+"state" : "Kansas"
+
+}
+
+],
+
+"confFullName" : "Mississippi River",
+
+"confPrestige" : "60",
+
+"confName" : "MRVR"
+
+}
+
+],
+
+"bowlGames" : [
+
+"Lilac Bowl",
+
+"Apple Bowl",
+
+"Salty Bowl",
+
+"Salsa Bowl",
+
+"Mango Bowl",
+
+"Party Bowl",
+
+"Patriot Bowl",
+
+"Salad Bowl",
+
+"Frost Bowl",
+
+"Tropical Bowl",
+
+"Music Bowl",
+
+"Island Bowl",
+
+"Philanthropy Bowl",
+
+"Bayou Bowl",
+
+"Camping Bowl",
+
+"Spud Bowl",
+
+"Music Bowl",
+
+"Social Faces Bowl",
+
+"Space Bowl",
+
+"Burrito Bowl",
+
+"Cascade Bowl",
+
+"Carnation Bowl",
+
+"Mandarin Bowl",
+
+"Honey Bowl",
+
+"Nectatrine Bowl",
+
+"Polyester Bowl",
+
+"Lemon-Lime Bowl",
+
+"Crocodile Bowl",
+
+"Desert Bowl",
+
+"Fort Bowl",
+
+"Vacation Bowl",
+
+"Star Bowl",
+
+"Bell Bowl",
+
+"Freedom Bowl",
+
+"Casino Bowl",
+
+"Search Engine Bowl"
+
+]
+
+}
+
